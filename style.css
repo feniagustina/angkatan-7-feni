@@ -1,0 +1,347 @@
+.Iphone14ProMax1{
+    width: 493px;
+    height: 1241px;
+    position: relative;
+    background:#444B75;
+}
+.FotoSaya1{
+    width: 120px; height: 176px;
+    left: 26px;
+    top: 81px;
+    position:absolute;
+}
+.Rectangle1{
+    width: 474px;
+    height: 29px;
+    left: 8px;
+    top: 18px;
+    position:absolute;
+    background:#D9DDF7;
+    border-radius: 10PX;
+}
+.TentangSaya{
+    width: 104px;
+    left: 20px;
+    top: 23px;
+    position: absolute;
+    color: black;
+    font-size: 16px;
+    font-family: Signika Negative;
+    font-weight: 400;
+    word-wrap: break-word;
+}
+.kontak{
+    left: 361px;
+    top: 23px;
+    position:absolute;
+    color: black;
+    font-size: 16px;
+    font-family: Signika Negative;
+    font-weight: 400;
+    word-wrap: break-word;
+}
+.Rectangle2{
+    width: 301px; 
+    height: 157px; 
+    left: 173px;
+    top: 92px;
+    position: absolute;
+    background: #D9DDF7;
+    border-radius: 10px;
+}
+.Biodata{
+    width: 83px;
+    height: 24px;
+    left: 288px;
+    top: 98px;
+    position: absolute;
+    color: black;
+    font-size: 16px;
+    font-family: Signika Negative;
+    font-weight: 400;
+    word-wrap: break-word;
+}
+.Line2{
+    width: 441px;
+    height: 0px;
+    left: 20px;
+    top: 41px;
+    position: absolute;
+    border: 0.50px black solid;
+}
+.Line3{
+    width: 175.01px;
+    height: 0px;
+    left: 241px;
+    top: 121.02px;
+    position: absolute;
+    transform: rotate(-0.66deg);
+    transform-origin: 0 0; 
+    border: 0.50px black solid;
+}
+.NamaFeniAgustina{
+    left: 189px; 
+    top: 137px; 
+    position: absolute; 
+    color: black; 
+    font-size: 14px; 
+    font-family: Merienda; 
+    font-weight: 400; 
+    word-wrap: break-word;
+}
+.TempatTglLahirGresik17Agustus2007{
+    left: 187px; 
+    top: 165px; 
+    position: absolute; 
+    color: black; 
+    font-size: 14px; 
+    font-family: Merienda; 
+    font-weight: 400; 
+    word-wrap: break-word;
+}
+.AlamatWonorejoDaleganPancengGresik{
+    left: 186px; 
+    top: 192px; 
+    position: absolute; 
+    color: black; 
+    font-size: 14px; 
+    font-family: Merienda; 
+    font-weight: 400; 
+    word-wrap: break-word;
+}
+.CitaCitaOrangSukses{
+    left: 189px; 
+    top: 219px; 
+    position: absolute; 
+    color: black; 
+    font-size: 14px; 
+    font-family: Merienda; 
+    font-weight: 400; 
+    word-wrap: break-word;
+}
+.Rectangle3{
+    width: 450px; 
+    height: 137.50px; 
+    left: 22px; 
+    top: 287px; 
+    position: absolute; 
+    background: #D9DDF7; 
+    border-radius: 10px;
+}
+.RiwayatPendidikan{
+    left: 154px; 
+    top: 287px; 
+    position: absolute; 
+    color: black; 
+    font-size: 16px; 
+    font-family: Signika Negative; 
+    font-weight: 400; 
+    word-wrap: break-word;
+}
+.Line4{
+    width: 246.01px; 
+    height: 0px; 
+    left: 125px; 
+    top: 308px; 
+    position: absolute; 
+    border: 0.50px black solid;
+}
+.PaudNurulHikmah{
+    left: 53px; 
+    top: 317px; 
+    position: absolute; 
+    color: black; 
+    font-size: 16px; 
+    font-family: Merienda; 
+    font-weight: 400; 
+    word-wrap: break-word;
+}
+.TkNurulHikmah{
+    left: 53px; 
+    top: 350px; 
+    position: absolute; 
+    color: black; 
+    font-size: 16px; 
+    font-family: Merienda; 
+    font-weight: 400; 
+    word-wrap: break-word; 
+}
+.MiNurulHikmah{
+    left: 53px; 
+    top: 384px; 
+    position: absolute; 
+    color: black; 
+    font-size: 16px; 
+    font-family: Merienda; 
+    font-weight: 400;
+    word-wrap: break-word; 
+}
+.SmkAlIkhlash{
+    left: 250px; 
+    top: 364px; 
+    position: absolute; 
+    color: black; 
+    font-size: 16px; 
+    font-family: Merienda; 
+    font-weight: 400; 
+    word-wrap: break-word;
+}
+.MtsNurulHikmah{
+    left: 249px; 
+    top: 331px; 
+    position: absolute; 
+    color: black; 
+    font-size: 16px; 
+    font-family: Merienda; 
+    font-weight: 400; 
+    word-wrap: break-word;
+}
+.Rectangle4{
+    width: 450px; 
+    height: 98px; 
+    left: 25px; 
+    top: 439px; 
+    position: absolute; 
+    background: #D9DDF7; 
+    border-radius: 10px;
+}
+.Prestasi{
+    left: 205px; 
+    top: 446px; 
+    position: absolute; 
+    color: black; 
+    font-size: 16px; 
+    font-family: Signika Negative; 
+    font-weight: 400; 
+    word-wrap: break-word;
+}
+.Line5{
+    width: 109px; 
+    height: 0px; 
+    left: 180px; 
+    top: 467px; 
+    position: absolute; 
+    border: 0.50px black solid;
+}
+.Juara1Pidato{
+    width: 132px; 
+    left: 65px; 
+    top: 476px; 
+    position: absolute; 
+    color: black; 
+    font-size: 16px; 
+    font-family: Merienda; 
+    font-weight: 400; word-wrap: break-word;
+}
+.Juara1MapelAswaja{
+    left: 263px; 
+    top: 476px; 
+    position: absolute; 
+    color: black; 
+    font-size: 16px; 
+    font-family: Merienda; 
+    font-weight: 400; 
+    word-wrap: break-word;
+}
+.Juara1Qiroati{
+    left: 169px; 
+    top: 501px; 
+    position: absolute; 
+    color: black; 
+    font-size: 16px; 
+    font-family: Merienda; 
+    font-weight: 400; 
+    word-wrap: break-word;
+}
+.Rectangle5{
+    width: 450px; 
+    height: 85px; 
+    left: 23px; 
+    top: 557px; 
+    position: absolute; 
+    background: #D9DDF7; 
+    border-radius: 10px;
+}
+.Hobi{
+    left: 226px; 
+    top: 572px; 
+    position: absolute; 
+    color: black; 
+    font-size: 16px; 
+    font-family: Signika Negative; 
+    font-weight: 400; 
+    word-wrap: break-word;
+}
+.Line6{
+    width: 74.03px; 
+    height: 0px; 
+    left: 205px; 
+    top: 593px; 
+    position: absolute; 
+    transform: rotate(1.55deg); 
+    transform-origin: 0 0; 
+    border: 0.50px black solid;
+}
+.Memasak{
+    left: 118px; 
+    top: 598px; 
+    position: absolute;
+    color: black; 
+    font-size: 16px; 
+    font-family: Signika Negative; 
+    font-weight: 400; 
+    word-wrap: break-word;
+    color: black; 
+    font-size: 16px; 
+    font-family: Merienda; 
+    font-weight: 400; 
+    word-wrap: break-word;
+}
+.JalanJalan{
+    left: 272px; 
+    top: 598px; 
+    position: absolute; 
+    color: black; 
+    font-size: 16px; 
+    font-family: Merienda; 
+    font-weight: 400; 
+    word-wrap: break-word;
+}
+.Rectangle6{
+    width: 445px; 
+    height: 558.50px; 
+    left: 27px; 
+    top: 659px; 
+    position: absolute; 
+    background: #D9DDF7; 
+    border-radius: 10px;
+}
+.Pengalaman{
+    left: 189px; 
+    top: 666px; 
+    position: absolute; 
+    color: black; 
+    font-size: 16px; 
+    font-family: Signika Negative; 
+    font-weight: 400; 
+    word-wrap: break-word;
+}
+.Line7{
+    width: 136px; 
+    height: 0px; 
+    left: 171px; 
+    top: 689px; 
+    position: absolute; 
+    border: 0.50px black solid;
+}
+.text1{
+    width: 423px; 
+    left: 36px; 
+    top: 697px; 
+    position: absolute; 
+    color: black; 
+    font-size: 13px; 
+    font-family: Merienda; 
+    font-weight: 400; 
+    word-wrap: break-word;
+}
